@@ -1,0 +1,11 @@
+10	
+5,bose sound system
+8,central library
+9,cs department
+4,google searchengine
+1,hello
+7,I enjoy rains
+10,iit kharagpur
+6,its going to rain today
+2,this is a test
+3,today is Thursday
